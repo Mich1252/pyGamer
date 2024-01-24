@@ -16,7 +16,8 @@ def main():
 
     print("this is a pull")
 
-
+def generate_dungeon():
+    dungeon=[]
 
 
 main()
