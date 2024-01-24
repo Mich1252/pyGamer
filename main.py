@@ -12,6 +12,7 @@ For now, all code will be here, until we get to classes, then we can start divyi
 def main():
     print("start game")
     print("hello mikel")
+    print("another victory for the OG's")
 
 
 
